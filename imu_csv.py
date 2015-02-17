@@ -1,7 +1,6 @@
 #! /usr/bin/python
 
 import sys, getopt
-
 import RTIMU
 import os.path
 import os
