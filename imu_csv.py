@@ -47,4 +47,3 @@ while True:
     print "%.2f,%.2f,%.2f,%.2f,%.1f,%.1f,%.1f" % (delta_centi,data["accel"][0],data["accel"][1],data["accel"][2],math.degrees(fusionPose[0]),math.degrees(fusionPose[1]),math.degrees(fusionPose[2]))
     time.sleep(0.02)
 
-
